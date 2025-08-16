@@ -1,1 +1,2 @@
-backend/.env
+backend/fuente/servicios/.env
+.venv/
