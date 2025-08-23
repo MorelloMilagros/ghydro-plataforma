@@ -1,2 +1,5 @@
 backend/fuente/servicios/.env
 .venv/
+.pkl
+.csv
+# para ignorar modelos de ia y archivos de datos locales

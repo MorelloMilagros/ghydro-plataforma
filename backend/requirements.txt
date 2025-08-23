@@ -1,0 +1,14 @@
+#comunicación MQTT
+paho-mqtt
+#conexión con InfluxDB
+influxdb-client
+#gestión de variables de entorno (.env)
+python-dotenv
+#análisis de datos y la IA
+pandas
+scikit-learn
+statsmodels
+joblib
+#conexión con la base de datos PostgreSQL
+SQLAlchemy
+psycopg2-binary
